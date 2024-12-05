@@ -8,8 +8,14 @@ console.log('***** Object Practice *****')
   - Give it  a numeric 'shoeCount' property
   - Also give it an array 'favThreeFoods'
 */
-const me = {
+const me = { 
   // TODO - add properties here
+  firstName: 'Alexander',
+  lastName: 'Ruziska',
+  hasSiblings: true,
+  shoeCount: 2,
+  favThreeFoods: 'Pizza, Tacos, Lasagna'
+
 };
 console.log('A little about me:', me);
 
